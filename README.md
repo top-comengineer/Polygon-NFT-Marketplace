@@ -5,7 +5,6 @@
 ![project-status](https://img.shields.io/badge/WIP-red?label=Project-status&logo=google-cloud&logoColor=white)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#)
 
-> generated from [jellydn/dapp-starter](https://github.com/jellydn/dapp-starter)
 > Opinionated Dapp Starter Template
 
 ## Homepage - Marketplace
