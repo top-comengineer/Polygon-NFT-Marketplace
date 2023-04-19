@@ -42,11 +42,3 @@ yarn dev
 ```sh
 yarn test
 ```
-
-## Template Author
-
-👤 **Dung Huynh**
-
-- Website: https://productsway.com/
-- Twitter: [@jellydn](https://twitter.com/jellydn)
-- Github: [@jellydn](https://github.com/jellydn)
