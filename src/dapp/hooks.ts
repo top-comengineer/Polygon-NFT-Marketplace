@@ -1,3 +1,4 @@
+//editted with typescript
 import { useWeb3React } from "@web3-react/core";
 import { useState, useEffect } from "react";
 
